@@ -1,0 +1,1 @@
+Put your project proposals here, naming the files `LastName-project-proposal.md` (replace `LastName` with your last name).
